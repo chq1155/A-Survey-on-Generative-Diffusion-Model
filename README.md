@@ -58,7 +58,7 @@ The original idea of the diffusion probabilistic model is to recreate a specific
 Nowadays, the main concern of the diffusion model is to speed up its speed and reduce the cost of computing. In general cases, it takes thousands of steps for diffusion models to generate a high-quality sample. Mainly focusing on improving sampling speed, many works from different aspects come into reality. Besides, other problems such as variational gap optimization, distribution diversification, and dimension reduction are also attracting extensive research interests. We divide the improved algorithm w.r.t. problems to be solved. For each problem, we present detailed classification of solutions.
 
 <p align="center">
-  <img src='./figs/method.png' width="600">
+  <img src='./figs/imp.jpg' width="600">
 </p>
 
 ### 1.1 Speed-up
