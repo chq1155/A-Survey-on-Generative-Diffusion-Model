@@ -1,6 +1,6 @@
 # A-Survey-on-Generative-Diffusion-Model
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![GitHub stars](https://img.shields.io/github/stars/gaozhangyang/A-Survey-on-Generative-Diffusion-Model?color=green&style=plastic)  ![GitHub forks](https://img.shields.io/github/forks/gaozhangyang/A-Survey-on-Generative-Diffusion-Model?color=green&label=Fork)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=gaozhangyang.A-Survey-on-Generative-Diffusion-Model)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![GitHub stars](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model?color=green&style=plastic)  ![GitHub forks](https://img.shields.io/github/forks/chq1155/A-Survey-on-Generative-Diffusion-Model?color=green&label=Fork)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=chq1155.A-Survey-on-Generative-Diffusion-Model)
 
 
 
@@ -442,7 +442,7 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
 
 ## Contribute
 
-If you would like to help contribute this list, please feel free to contact me or add [pull request](https://github.com/gaozhangyang/A-Survey-on-Generative-Diffusion-Model/pulls) with the following Markdown format:
+If you would like to help contribute this list, please feel free to contact me or add [pull request](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model/pulls) with the following Markdown format:
 
 ```markdown
 - Paper Name. 
