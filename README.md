@@ -302,6 +302,9 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
 
 - ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech
     - Huang, Rongjie and Zhao, Zhou and Liu, Huadai and Liu, Jinglin and Cui, Chenye and Ren, Yi. *ACM MM 2022*. [[pdf]](https://arxiv.org/abs/2207.06389) [[code]](https://github.com/Rongjiehuang/ProDiff) 
+    
+- Diffusion Causal Models for Counterfactual Estimation
+    - Sanchez, Pedro and Tsaftaris, Sotirios A. *Conference on Causal Learning and Reasoning (CLeaR) 2022*.
 
 #### 2.1.3 3D Vision
 - Diffusion probabilistic models for 3d point cloud generation
@@ -341,6 +344,9 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
 
 - MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion
     - Chung, Hyungjin and Lee, Eun Sun and Ye, Jong Chul. *Arxiv 2022*.
+    
+- What is Healthy? Generative Counterfactual Diffusion for Lesion Localization
+    - Sanchez, Pedro and Kascenas, Antanas and Liu, Xiao and O'Neil, Alison Q and Tsaftaris, Sotirios A. *Arxiv 2022*
 
 ### 2.2 Sequential Modeling
 #### 2.2.1 Natural Language Processing
