@@ -257,6 +257,10 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 - Permutation invariant graph generation via score-based generative modeling
     - Niu, Chenhao and Song, Yang and Song, Jiaming and Zhao, Shengjia and Grover, Aditya and Ermon, Stefano. *PMLR 2020*.
 
+<p align="center">
+  <img src='./figs/table1.pdf' width="600">
+</p>
+
 ## 2. Application
 Benefiting from the powerful ability to generate realistic samples, diffusion models have been widely used in various fields such as computer vision, natural language processing, and bioinformatics.
 
