@@ -258,7 +258,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
     - Niu, Chenhao and Song, Yang and Song, Jiaming and Zhao, Shengjia and Grover, Aditya and Ermon, Stefano. *PMLR 2020*.
 
 <p align="center">
-  <img src='./figs/table1.pdf' width="600">
+  <img src='./figs/table1.jpg' width="900">
 </p>
 
 ## 2. Application
@@ -449,6 +449,9 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
 - ProteinSGM: Score-based generative modeling for de novo protein design
     - Lee, Jin Sub and Kim, Philip M. *Arxiv 2022*
 
+<p align="center">
+  <img src='./figs/table2.jpg' width="1000">
+</p>
 
 ## Contribute
 
