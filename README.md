@@ -149,19 +149,19 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 #### 1.1.3 Mixed-Modeling
 *Acceleration Mixture* 
 - Tackling the generative learning trilemma with denoising diffusion gans
-    - Xiao, Zhisheng and Kreis, Karsten and Vahdat, Arash. *Arxiv 2021*
+    - Xiao, Zhisheng and Kreis, Karsten and Vahdat, Arash. *Arxiv 2021* [[pdf]](https://arxiv.org/abs/2112.07804) [[code]](https://github.com/NVlabs/denoising-diffusion-gan) 
 
 - Accelerating Diffusion Models via Early Stop of the Diffusion Process
-    - Lyu, Zhaoyang and Xu, Xudong and Yang, Ceyuan and Lin, Dahua and Dai, Bo. *Arxiv 2022*. 
+    - Lyu, Zhaoyang and Xu, Xudong and Yang, Ceyuan and Lin, Dahua and Dai, Bo. *Arxiv 2022*. [[pdf]](http://arxiv.org/abs/2205.12524) [[code]](https://github.com/zhaoyanglyu/early_stopped_ddpm) 
 
 - Truncated diffusion probabilistic models
-    - Zheng, Huangjie and He, Pengcheng and Chen, Weizhu and Zhou, Mingyuan. *Arxiv 2022*
+    - Zheng, Huangjie and He, Pengcheng and Chen, Weizhu and Zhou, Mingyuan. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2202.09671) [[code]](https://github.com/jegzheng/truncated-diffusion-probabilistic-models) 
 
-- DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents
-    - Pandey, Kushagra and Mukherjee, Avideep and Rai, Piyush and Kumar, Abhishek. *Arixv 2022*.
+- DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensiona Latents
+    - Pandey, Kushagra and Mukherjee, Avideep and Rai, Piyush and Kumar, Abhishek. *Arixv 2022*. [[pdf]](https://arxiv.org/pdf/2201.00308) [[code]](https://github.com/kpandey008/DiffuseVAE) 
 
 - Diffusion normalizing flow
-    - Zhang, Qinsheng and Chen, Yongxin. *NPIS 2021*
+    - Zhang, Qinsheng and Chen, Yongxin. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2110.07579) [[code]](https://github.com/qsh-zh/DiffFlow) 
 
 *Expressiveness Mixture*
 
@@ -169,13 +169,13 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
     - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-Chul. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.13699) 
 
 - Score-based generative modeling in latent space
-    - Vahdat, Arash and Kreis, Karsten and Kautz, Jan. *NIPS 2021*. 
+    - Vahdat, Arash and Kreis, Karsten and Kautz, Jan. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2106.05931) [[code]](https://github.com/NVlabs/LSGM) 
 
 - Maximum likelihood training of score-based diffusion models
-    - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NPIS 2021*
+    - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2101.09258) [[code]](https://github.com/yang-song/score_flow)
 
 - Maximum Likelihood Training of Parametrized Diffusion Model
-    - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. 
+    - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. [[pdf]](https://paperswithcode.com/paper/maximum-likelihood-training-of-parametrized)
 
 #### 1.1.4 Score-Diffusion Unification
 - Score-based generative modeling through stochastic differential equations
