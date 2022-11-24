@@ -69,7 +69,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 ### 1.1 Speed-up
 #### 1.1.1 Training Scheme
 
-*Knowledge DIstillation*
+***Knowledge DIstillation***
  - **Progressive distillation for fast sampling of diffusion models**
     - Salimans, Tim and Ho, Jonathan. *ICLR 2022*. [[pdf]](https://arxiv.org/abs/2202.00512) [[code]](https://github.com/google-research/google-research/tree/master/diffusion_distillation) <!-- TODO: Update version -->
 
@@ -80,7 +80,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
     - Luhman, Eric and Luhman, Troy. *Arxiv 2021* [[pdf]](https://arxiv.org/abs/2101.02388) [[code]](https://github.com/tcl9876/Denoising_Student) <!-- TODO: Cite in text -->
 
 
-*Diffusion Scheme Learning*
+***Diffusion Scheme Learning***
  - **Accelerating Diffusion Models via Early Stop of the Diffusion Process**
     - Lyu, Zhaoyang and Xu, Xudong and Yang, Ceyuan and Lin, Dahua and Dai, Bo. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2205.12524) [[code]](https://github.com/zhaoyanglyu/early_stopped_ddpm)
  
@@ -93,7 +93,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
  - **How Much is Enough? A Study on Diffusion Times in Score-based Generative Models**
     - Franzese, Giulio and Rossi, Simone and Yang, Lixuan and Finamore, Alessandro and Rossi, Dario and Filippone, Maurizio and Michiardi, Pietro. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2206.05173)
 
-*Noise Scale Designing* 
+***Noise Scale Designing* **
  - **Improved denoising diffusion probabilistic models**
     - Nichol, Alexander Quinn and Dhariwal, Prafulla. *PMLR 2021* [[pdf]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
 
@@ -106,7 +106,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
  - **Variational diffusion models**
     - Kingma, Diederik and Salimans, Tim and Poole, Ben and Ho, Jonathan. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
 
-*Data Distribution Replace*
+***Data Distribution Replace***
  - **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise**
     - Bansal, Arpit and Borgnia, Eitan and Chu, Hong-Min and Li, Jie S. and Kazemi, Hamid and Huang, Furong and Goldblum, Micah and Geiping, Jonas and Goldstein, Tom. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2208.09392) [[code]](https://github.com/arpitbansal297/cold-diffusion-models)
  
@@ -115,11 +115,11 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 
 
 #### 1.1.2 Training-Free Sampling
-*Analytical Method*
+***Analytical Method***
  - **Analytic-dpm: an analytic estimate of the optimal reverse variance in diffusion probabilistic models**
     - Bao, Fan and Li, Chongxuan and Zhu, Jun and Zhang, Bo. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2201.06503) [[code]](https://github.com/baofff/Analytic-DPM)
 
-*Implicit Sampler*
+***Implicit Sampler***
  - **Denoising Diffusion Implicit Models**
     - Song, Jiaming and Meng, Chenlin and Ermon, Stefano. *ICLR 2020*. [[pdf]](https://arxiv.org/abs/2010.02502) [[code]](https://github.com/ermongroup/ddim)
 
@@ -129,7 +129,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
  - **Maximum Likelihood Training of Implicit Nonlinear Diffusion Models**
     - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-Chul. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.13699) 
 
-*Differential Equation Solver Sampler*
+***Differential Equation Solver Sampler***
 - **Fast Sampling of Diffusion Models with Exponential Integrator**
     - Zhang, Qinsheng and Chen, Yongxin. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2204.13902) [[code]](https://github.com/qsh-zh/deis)
 
@@ -142,7 +142,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 - **Gotta Go Fast When Generating Data with Score-Based Models**
     - Jolicoeur-Martineau, Alexia and Li, Ke and Piché-Taillefer, Rémi and Kachman, Tal and Mitliagkas, Ioannis. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2105.14080) [[code]](https://github.com/AlexiaJM/score_sde_fast_sampling) 
 
-*Dynamic Programming Adjustment*
+***Dynamic Programming Adjustment***
 - **Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality**
     - Watson, Daniel and Chan, William and Ho, Jonathan and Norouzi, Mohammad. *ICLR 2022*. [[pdf]](https://arxiv.org/abs/2202.05830) 
 
