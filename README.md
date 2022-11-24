@@ -134,128 +134,139 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 - **DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps**
     - Lu, Cheng and Zhou, Yuhao and Bao, Fan and Chen, Jianfei and Li, Chongxuan and Zhu, Jun. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2206.00927) [[code]](https://github.com/luchengthu/dpm-solver) 
 
-- Gotta Go Fast When Generating Data with Score-Based Models
+- **Gotta Go Fast When Generating Data with Score-Based Models**
     - Jolicoeur-Martineau, Alexia and Li, Ke and Piché-Taillefer, Rémi and Kachman, Tal and Mitliagkas, Ioannis. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2105.14080) [[code]](https://github.com/AlexiaJM/score_sde_fast_sampling) 
 
 *Dynamic Programming Adjustment*
-- Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality
+- **Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality**
     - Watson, Daniel and Chan, William and Ho, Jonathan and Norouzi, Mohammad. *ICLR 2022*. [[pdf]](https://arxiv.org/abs/2202.05830) 
 
-- Learning to efficiently sample from diffusion probabilistic models
+- **Learning to efficiently sample from diffusion probabilistic models**
     - Watson, Daniel and Ho, Jonathan and Norouzi, Mohammad and Chan, William. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2106.03802)  
 
 
 <!-- TODO: 此前的引用, 结合自正文段落和图, 接下来的应用仅仅是图上的引用, 可能忽略段落中的部分内容. -->
 #### 1.1.3 Mixed-Modeling
 *Acceleration Mixture* 
-- Tackling the generative learning trilemma with denoising diffusion gans
+- **Tackling the generative learning trilemma with denoising diffusion gans**
     - Xiao, Zhisheng and Kreis, Karsten and Vahdat, Arash. *Arxiv 2021* [[pdf]](https://arxiv.org/abs/2112.07804) [[code]](https://github.com/NVlabs/denoising-diffusion-gan) 
 
-- Accelerating Diffusion Models via Early Stop of the Diffusion Process
+- **Accelerating Diffusion Models via Early Stop of the Diffusion Process**
     - Lyu, Zhaoyang and Xu, Xudong and Yang, Ceyuan and Lin, Dahua and Dai, Bo. *Arxiv 2022*. [[pdf]](http://arxiv.org/abs/2205.12524) [[code]](https://github.com/zhaoyanglyu/early_stopped_ddpm) 
 
-- Truncated diffusion probabilistic models
+- **Truncated diffusion probabilistic models**
     - Zheng, Huangjie and He, Pengcheng and Chen, Weizhu and Zhou, Mingyuan. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2202.09671) [[code]](https://github.com/jegzheng/truncated-diffusion-probabilistic-models) 
 
-- DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensiona Latents
+- **DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensiona Latents**
     - Pandey, Kushagra and Mukherjee, Avideep and Rai, Piyush and Kumar, Abhishek. *Arixv 2022*. [[pdf]](https://arxiv.org/pdf/2201.00308) [[code]](https://github.com/kpandey008/DiffuseVAE) 
 
-- Diffusion normalizing flow
+- **Diffusion normalizing flow**
     - Zhang, Qinsheng and Chen, Yongxin. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2110.07579) [[code]](https://github.com/qsh-zh/DiffFlow) 
 
 *Expressiveness Mixture*
 
- - Maximum Likelihood Training of Implicit Nonlinear Diffusion Models
+ - **Maximum Likelihood Training of Implicit Nonlinear Diffusion Models**
     - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-Chul. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.13699) 
 
-- Score-based generative modeling in latent space
+- **Score-based generative modeling in latent space**
     - Vahdat, Arash and Kreis, Karsten and Kautz, Jan. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2106.05931) [[code]](https://github.com/NVlabs/LSGM) 
 
-- Maximum likelihood training of score-based diffusion models
+- **Maximum likelihood training of score-based diffusion models**
     - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2101.09258) [[code]](https://github.com/yang-song/score_flow)
 
-- Maximum Likelihood Training of Parametrized Diffusion Model
+- **Maximum Likelihood Training of Parametrized Diffusion Model**
     - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. [[pdf]](https://paperswithcode.com/paper/maximum-likelihood-training-of-parametrized)
 
 #### 1.1.4 Score-Diffusion Unification
-- Score-based generative modeling through stochastic differential equations
+- **Score-based generative modeling through stochastic differential equations**
     - Song, Yang and Sohl-Dickstein, Jascha and Kingma, Diederik P and Kumar, Abhishek and Ermon, Stefano and Poole, Ben. *Arxiv 2020*
 
-- Variational diffusion models
+- **Variational diffusion models**
     - Kingma, Diederik and Salimans, Tim and Poole, Ben and Ho, Jonathan. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
 
- - gDDIM: Generalized denoising diffusion implicit models
+ - **gDDIM: Generalized denoising diffusion implicit models**
     - Zhang, Qinsheng and Tao, Molei and Chen, Yongxin. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2206.05564) [[code]](https://github.com/qsh-zh/gDDIM)
 
-- Fast Sampling of Diffusion Models with Exponential Integrator
+- **Fast Sampling of Diffusion Models with Exponential Integrator**
     - Zhang, Qinsheng and Chen, Yongxin. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2204.13902) [[code]](https://github.com/qsh-zh/deis)
 
-- Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality
+- **Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality**
     - Watson, Daniel and Chan, William and Ho, Jonathan and Norouzi, Mohammad. *ICLR 2022*. [[pdf]](https://arxiv.org/abs/2202.05830) 
 
-- Interpreting diffusion score matching using normalizing flow
+- **Interpreting diffusion score matching using normalizing flow**
     - Gong, Wenbo and Li, Yingzhen. *Arxiv 2021*.
 
-- Simulating Diffusion Bridges with Score Matching
+- **Simulating Diffusion Bridges with Score Matching**
     - De Bortoli, Valentin and Doucet, Arnaud and Heng, Jeremy and Thornton, James. *Arxiv 2021*
 
 ### 1.2 Distribution Diversification
 #### 1.2.1 Continuous Space
-- Maximum Likelihood Training of Implicit Nonlinear Diffusion Models
+- **Maximum Likelihood Training of Implicit Nonlinear Diffusion Models**
     - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-Chul. *Arxiv 2022*
 
-- Score-based generative modeling in latent space
+- **Score-based generative modeling in latent space**
     - Vahdat, Arash and Kreis, Karsten and Kautz, Jan. *NIPS 2021*. 
 
-- Maximum likelihood training of score-based diffusion models
+- **Maximum likelihood training of score-based diffusion models**
     - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NPIS 2021*
 
-- Maximum Likelihood Training of Parametrized Diffusion Model
+- **Maximum Likelihood Training of Parametrized Diffusion Model**
     - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. 
 
-- Diffusion probabilistic models for 3d point cloud generation
+- **Diffusion probabilistic models for 3d point cloud generation**
     - Luo, Shitong and Hu, Wei. *CVPR 2021*. 
 
-- 3d shape generation and completion through point-voxel diffusion
+- **3d shape generation and completion through point-voxel diffusion**
     - Zhou, Linqi and Du, Yilun and Wu, Jiajun. *ICCV 2021*
 
-- A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion
+- **A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion**
     - Lyu, Zhaoyang and Kong, Zhifeng and Xudong, XU and Pan, Liang and Lin, Dahua. *ICLR 2021*. 
 
 #### 1.2.2 Discrete Space
-- Argmax flows and multinomial diffusion: Towards non-autoregressive language models
+- **Argmax flows and multinomial diffusion: Towards non-autoregressive language models**
     - Hoogeboom, Emiel and Nielsen, Didrik and Jaini, Priyank and Forre, Patrick and Welling, Max. *NIPS 2021*.
 
-- Autoregressive diffusion models
+- **Autoregressive diffusion models**
     - Hoogeboom, Emiel and Gritsenko, Alexey A and Bastings, Jasmijn and Poole, Ben and Berg, Rianne van den and Salimans, Tim. *Arxiv 2021*.
 
-- A Continuous Time Framework for Discrete Denoising Models
+- **A Continuous Time Framework for Discrete Denoising Models**
     - Campbell, Andrew and Benton, Joe and De Bortoli, Valentin and Rainforth, Tom and Deligiannidis, George and Doucet, Arnaud. *Arxiv 2022*.
 
-- Structured denoising diffusion models in discrete state-spaces
+- **Structured denoising diffusion models in discrete state-spaces**
     - Austin, Jacob and Johnson, Daniel D and Ho, Jonathan and Tarlow, Daniel and van den Berg, Rianne. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.03006) [[code]](https://paperswithcode.com/paper/structured-denoising-diffusion-models-in)
 
-- Improved Vector Quantized Diffusion Models
+- **Improved Vector Quantized Diffusion Models**
     - Tang, Zhicong and Gu, Shuyang and Bao, Jianmin and Chen, Dong and Wen, Fang. *Arxiv 2022*
 
-- Diffusion bridges vector quantized Variational AutoEncoders
+- **Diffusion bridges vector quantized Variational AutoEncoders**
     - Cohen, Max and Quispe, Guillaume and Corff, Sylvain Le and Ollion, Charles and Moulines, Eric. *Arixv 2022*
 
-- Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation
+- **Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation**
     - Xie, Pan and Zhang, Qipeng and Li, Zexian and Tang, Hao and Du, Yao and Hu, Xiaohui. *Arxiv 2022*.
 
 #### 1.2.3 Constrained Space
-- Pseudo numerical methods for diffusion models on manifolds
+- **Pseudo numerical methods for diffusion models on manifolds**
     - Liu, Luping and Ren, Yi and Lin, Zhijie and Zhao, Zhou. *Arxiv 2022*.
 
-- Riemannian score-based generative modeling
+- **Riemannian score-based generative modeling**
     - De Bortoli, Valentin and Mathieu, Emile and Hutchinson, Michael and Thornton, James and Teh, Yee Whye and Doucet, Arnaud. *Arxiv 2022*.
 
-- Riemannian Diffusion Models
+- **Riemannian Diffusion Models**
     - Huang, Chin-Wei and Aghajohari, Milad and Bose, Avishek Joey and Panangaden, Prakash and Courville, Aaron. *Arxiv 2022*.
 
-- Permutation invariant graph generation via score-based generative modeling
+- **Permutation invariant graph generation via score-based generative modeling**
     - Niu, Chenhao and Song, Yang and Song, Jiaming and Zhao, Shengjia and Grover, Aditya and Ermon, Stefano. *PMLR 2020*.
+
+### 1.3 Likelihood Optimization
+
+#### 1.3.1 Improved ELBO
+
+#### 1.3.2 Variational Gap Optimization
+
+### 1.4 Dimension Reduction
+
+#### 1.4.1 Mixed-Modeling
+
 
 <p align="center">
   <img src='./figs/table1.jpg' width="900">
