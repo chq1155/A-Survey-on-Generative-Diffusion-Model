@@ -65,73 +65,73 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 #### 1.1.1 Training Scheme
 
 *Knowledge DIstillation*
- - Progressive distillation for fast sampling of diffusion models
+ - **Progressive distillation for fast sampling of diffusion models**
     - Salimans, Tim and Ho, Jonathan. *ICLR 2022*. [[pdf]](https://arxiv.org/abs/2202.00512) [[code]](https://github.com/google-research/google-research/tree/master/diffusion_distillation) <!-- TODO: Update version -->
 
- - ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech
+ - **ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech**
     - Huang, Rongjie and Zhao, Zhou and Liu, Huadai and Liu, Jinglin and Cui, Chenye and Ren, Yi. *ACM MM 2022*. [[pdf]](https://arxiv.org/abs/2207.06389) [[code]](https://github.com/Rongjiehuang/ProDiff) <!-- TODO: Update version -->
 
- - Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed
+ - **Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed**
     - Luhman, Eric and Luhman, Troy. *Arxiv 2021* [[pdf]](https://arxiv.org/abs/2101.02388) [[code]](https://github.com/tcl9876/Denoising_Student) <!-- TODO: Cite in text -->
 
 
 *Diffusion Scheme Learning*
- - Accelerating Diffusion Models via Early Stop of the Diffusion Process
+ - **Accelerating Diffusion Models via Early Stop of the Diffusion Process**
     - Lyu, Zhaoyang and Xu, Xudong and Yang, Ceyuan and Lin, Dahua and Dai, Bo. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2205.12524) [[code]](https://github.com/zhaoyanglyu/early_stopped_ddpm)
  
- - Truncated diffusion probabilistic models
+ - **Truncated diffusion probabilistic models**
     - Zheng, Huangjie and He, Pengcheng and Chen, Weizhu and Zhou, Mingyuan. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2202.09671)
 
- - Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+ - **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise**
     - Bansal, Arpit and Borgnia, Eitan and Chu, Hong-Min and Li, Jie S. and Kazemi, Hamid and Huang, Furong and Goldblum, Micah and Geiping, Jonas and Goldstein, Tom. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2208.09392) [[code]](https://github.com/arpitbansal297/cold-diffusion-models)
 
- - How Much is Enough? A Study on Diffusion Times in Score-based Generative Models
+ - **How Much is Enough? A Study on Diffusion Times in Score-based Generative Models**
     - Franzese, Giulio and Rossi, Simone and Yang, Lixuan and Finamore, Alessandro and Rossi, Dario and Filippone, Maurizio and Michiardi, Pietro. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2206.05173)
 
 *Noise Scale Designing* 
- - Improved denoising diffusion probabilistic models
+ - **Improved denoising diffusion probabilistic models**
     - Nichol, Alexander Quinn and Dhariwal, Prafulla. *PMLR 2021* [[pdf]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
 
- - Noise estimation for generative diffusion models
+ - **Noise estimation for generative diffusion models**
     - San-Roman, Robin and Nachmani, Eliya and Wolf, Lior. *Arxiv 2021* [[pdf]](https://arxiv.org/abs/2104.02600)
 
- - Fast Sampling of Diffusion Models with Exponential Integrator
+ - **Fast Sampling of Diffusion Models with Exponential Integrator**
     - Zhang, Qinsheng and Chen, Yongxin. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2204.13902) [[code]](https://github.com/qsh-zh/deis)
 
- - Variational diffusion models
+ - **Variational diffusion models**
     - Kingma, Diederik and Salimans, Tim and Poole, Ben and Ho, Jonathan. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
 
 *Data Distribution Replace*
- - Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+ - **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise**
     - Bansal, Arpit and Borgnia, Eitan and Chu, Hong-Min and Li, Jie S. and Kazemi, Hamid and Huang, Furong and Goldblum, Micah and Geiping, Jonas and Goldstein, Tom. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2208.09392) [[code]](https://github.com/arpitbansal297/cold-diffusion-models)
  
- - Structured denoising diffusion models in discrete state-spaces
+ - **Structured denoising diffusion models in discrete state-spaces**
     - Austin, Jacob and Johnson, Daniel D and Ho, Jonathan and Tarlow, Daniel and van den Berg, Rianne. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.03006) [[code]](https://paperswithcode.com/paper/structured-denoising-diffusion-models-in)
 
 
 #### 1.1.2 Training-Free Sampling
 *Analytical Method*
- - Analytic-dpm: an analytic estimate of the optimal reverse variance in diffusion probabilistic models
+ - **Analytic-dpm: an analytic estimate of the optimal reverse variance in diffusion probabilistic models**
     - Bao, Fan and Li, Chongxuan and Zhu, Jun and Zhang, Bo. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2201.06503) [[code]](https://github.com/baofff/Analytic-DPM)
 
 *Implicit Sampler*
- - Denoising Diffusion Implicit Models
+ - **Denoising Diffusion Implicit Models**
     - Song, Jiaming and Meng, Chenlin and Ermon, Stefano. *ICLR 2020*. [[pdf]](https://arxiv.org/abs/2010.02502) [[code]](https://github.com/ermongroup/ddim)
 
- - gDDIM: Generalized denoising diffusion implicit models
+ - **gDDIM: Generalized denoising diffusion implicit models**
     - Zhang, Qinsheng and Tao, Molei and Chen, Yongxin. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2206.05564) [[code]](https://github.com/qsh-zh/gDDIM)
  
- - Maximum Likelihood Training of Implicit Nonlinear Diffusion Models
+ - **Maximum Likelihood Training of Implicit Nonlinear Diffusion Models**
     - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-Chul. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.13699) 
 
 *Differential Equation Solver Sampler*
-- Fast Sampling of Diffusion Models with Exponential Integrator
+- **Fast Sampling of Diffusion Models with Exponential Integrator**
     - Zhang, Qinsheng and Chen, Yongxin. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2204.13902) [[code]](https://github.com/qsh-zh/deis)
 
-- Pseudo numerical methods for diffusion models on manifolds
+- **Pseudo numerical methods for diffusion models on manifolds**
     - Liu, Luping and Ren, Yi and Lin, Zhijie and Zhao, Zhou. *ICLR 2022*. [[pdf]](https://arxiv.org/abs/2202.09778) [[code]](https://github.com/luping-liu/PNDM) <!-- TODO: Update version -->
 
-- DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps
+- **DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps**
     - Lu, Cheng and Zhou, Yuhao and Bao, Fan and Chen, Jianfei and Li, Chongxuan and Zhu, Jun. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2206.00927) [[code]](https://github.com/luchengthu/dpm-solver) 
 
 - Gotta Go Fast When Generating Data with Score-Based Models
