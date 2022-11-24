@@ -184,7 +184,8 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 
 #### 1.1.4 Score-Diffusion Unification
 - **Score-based generative modeling through stochastic differential equations**
-    - Song, Yang and Sohl-Dickstein, Jascha and Kingma, Diederik P and Kumar, Abhishek and Ermon, Stefano and Poole, Ben. *Arxiv 2020*
+    - Song, Yang and Sohl-Dickstein, Jascha and Kingma, Diederik P and Kumar, Abhishek and Ermon, Stefano and Poole, Ben. *Arxiv 2020*. [[pdf]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde)
+
 
 - **Variational diffusion models**
     - Kingma, Diederik and Salimans, Tim and Poole, Ben and Ho, Jonathan. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
@@ -199,68 +200,68 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
     - Watson, Daniel and Chan, William and Ho, Jonathan and Norouzi, Mohammad. *ICLR 2022*. [[pdf]](https://arxiv.org/abs/2202.05830) 
 
 - **Interpreting diffusion score matching using normalizing flow**
-    - Gong, Wenbo and Li, Yingzhen. *Arxiv 2021*.
+    - Gong, Wenbo and Li, Yingzhen. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2107.10072)
 
 - **Simulating Diffusion Bridges with Score Matching**
-    - De Bortoli, Valentin and Doucet, Arnaud and Heng, Jeremy and Thornton, James. *Arxiv 2021*
+    - De Bortoli, Valentin and Doucet, Arnaud and Heng, Jeremy and Thornton, James. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2111.07243) [[code]](https://github.com/jeremyhengjm/diffusionbridge)
 
 ### 1.2 Distribution Diversification
 #### 1.2.1 Continuous Space
 - **Maximum Likelihood Training of Implicit Nonlinear Diffusion Models**
-    - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-Chul. *Arxiv 2022*
+    - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-Chul. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.13699) 
 
 - **Score-based generative modeling in latent space**
-    - Vahdat, Arash and Kreis, Karsten and Kautz, Jan. *NIPS 2021*. 
+    - Vahdat, Arash and Kreis, Karsten and Kautz, Jan. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2106.05931) [[code]](https://github.com/NVlabs/LSGM)
 
 - **Maximum likelihood training of score-based diffusion models**
-    - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NPIS 2021*
+    - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2101.09258) [[code]](https://github.com/yang-song/score_flow)
 
 - **Maximum Likelihood Training of Parametrized Diffusion Model**
-    - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. 
+    - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. [[pdf]](https://paperswithcode.com/paper/maximum-likelihood-training-of-parametrized)
 
 - **Diffusion probabilistic models for 3d point cloud generation**
-    - Luo, Shitong and Hu, Wei. *CVPR 2021*. 
+    - Luo, Shitong and Hu, Wei. *CVPR 2021*. [[pdf]](https://arxiv.org/abs/2103.01458) [[code]](https://github.com/luost26/diffusion-point-cloud)
 
 - **3d shape generation and completion through point-voxel diffusion**
-    - Zhou, Linqi and Du, Yilun and Wu, Jiajun. *ICCV 2021*
+    - Zhou, Linqi and Du, Yilun and Wu, Jiajun. *ICCV 2021*. [[pdf]](https://arxiv.org/abs/2104.03670) [[code]](https://github.com/alexzhou907/PVD)
 
 - **A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion**
-    - Lyu, Zhaoyang and Kong, Zhifeng and Xudong, XU and Pan, Liang and Lin, Dahua. *ICLR 2021*. 
+    - Lyu, Zhaoyang and Kong, Zhifeng and Xudong, XU and Pan, Liang and Lin, Dahua. *ICLR 2021*. [[pdf]](https://arxiv.org/abs/2112.03530) [[code]](https://github.com/zhaoyanglyu/point_diffusion_refinement)
 
 #### 1.2.2 Discrete Space
 - **Argmax flows and multinomial diffusion: Towards non-autoregressive language models**
-    - Hoogeboom, Emiel and Nielsen, Didrik and Jaini, Priyank and Forre, Patrick and Welling, Max. *NIPS 2021*.
+    - Hoogeboom, Emiel and Nielsen, Didrik and Jaini, Priyank and Forre, Patrick and Welling, Max. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2102.05379) [[code]](https://github.com/ehoogeboom/multinomial_diffusion)
 
 - **Autoregressive diffusion models**
-    - Hoogeboom, Emiel and Gritsenko, Alexey A and Bastings, Jasmijn and Poole, Ben and Berg, Rianne van den and Salimans, Tim. *Arxiv 2021*.
+    - Hoogeboom, Emiel and Gritsenko, Alexey A and Bastings, Jasmijn and Poole, Ben and Berg, Rianne van den and Salimans, Tim. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2110.02037) [[code]](https://github.com/google-research/google-research/tree/master/autoregressive_diffusion)
 
 - **A Continuous Time Framework for Discrete Denoising Models**
-    - Campbell, Andrew and Benton, Joe and De Bortoli, Valentin and Rainforth, Tom and Deligiannidis, George and Doucet, Arnaud. *Arxiv 2022*.
+    - Campbell, Andrew and Benton, Joe and De Bortoli, Valentin and Rainforth, Tom and Deligiannidis, George and Doucet, Arnaud. *Arxiv 2022*. [[pdf]](http://arxiv.org/abs/2205.14987) [[code]](https://github.com/andrew-cr/tauldr)
 
 - **Structured denoising diffusion models in discrete state-spaces**
     - Austin, Jacob and Johnson, Daniel D and Ho, Jonathan and Tarlow, Daniel and van den Berg, Rianne. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.03006) [[code]](https://paperswithcode.com/paper/structured-denoising-diffusion-models-in)
 
 - **Improved Vector Quantized Diffusion Models**
-    - Tang, Zhicong and Gu, Shuyang and Bao, Jianmin and Chen, Dong and Wen, Fang. *Arxiv 2022*
+    - Tang, Zhicong and Gu, Shuyang and Bao, Jianmin and Chen, Dong and Wen, Fang. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.16007) [[code]](https://github.com/microsoft/vq-diffusion)
 
 - **Diffusion bridges vector quantized Variational AutoEncoders**
-    - Cohen, Max and Quispe, Guillaume and Corff, Sylvain Le and Ollion, Charles and Moulines, Eric. *Arixv 2022*
+    - Cohen, Max and Quispe, Guillaume and Corff, Sylvain Le and Ollion, Charles and Moulines, Eric. *Arixv 2022*. [[pdf]](https://arxiv.org/abs/2202.04895) [[code]](https://github.com/maxjcohen/diffusion-bridges)
 
 - **Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation**
-    - Xie, Pan and Zhang, Qipeng and Li, Zexian and Tang, Hao and Du, Yao and Hu, Xiaohui. *Arxiv 2022*.
+    - Xie, Pan and Zhang, Qipeng and Li, Zexian and Tang, Hao and Du, Yao and Hu, Xiaohui. *Arxiv 2022*. [[pdf]](http://arxiv.org/abs/2208.09141)
 
 #### 1.2.3 Constrained Space
 - **Pseudo numerical methods for diffusion models on manifolds**
-    - Liu, Luping and Ren, Yi and Lin, Zhijie and Zhao, Zhou. *Arxiv 2022*.
+    - Liu, Luping and Ren, Yi and Lin, Zhijie and Zhao, Zhou. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2202.09778) [[code]](https://github.com/luping-liu/PNDM)
 
 - **Riemannian score-based generative modeling**
-    - De Bortoli, Valentin and Mathieu, Emile and Hutchinson, Michael and Thornton, James and Teh, Yee Whye and Doucet, Arnaud. *Arxiv 2022*.
+    - De Bortoli, Valentin and Mathieu, Emile and Hutchinson, Michael and Thornton, James and Teh, Yee Whye and Doucet, Arnaud. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2202.02763) [[code]](https://github.com/oxcsml/riemannian-score-sde)
 
 - **Riemannian Diffusion Models**
-    - Huang, Chin-Wei and Aghajohari, Milad and Bose, Avishek Joey and Panangaden, Prakash and Courville, Aaron. *Arxiv 2022*.
+    - Huang, Chin-Wei and Aghajohari, Milad and Bose, Avishek Joey and Panangaden, Prakash and Courville, Aaron. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2207.03024?context=cs)
 
 - **Permutation invariant graph generation via score-based generative modeling**
-    - Niu, Chenhao and Song, Yang and Song, Jiaming and Zhao, Shengjia and Grover, Aditya and Ermon, Stefano. *PMLR 2020*.
+    - Niu, Chenhao and Song, Yang and Song, Jiaming and Zhao, Shengjia and Grover, Aditya and Ermon, Stefano. *PMLR 2020*. [[pdf]](https://arxiv.org/abs/2003.00638) [[code]](https://github.com/ermongroup/GraphScoreMatching)
 
 ### 1.3 Likelihood Optimization
 
@@ -286,23 +287,23 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
 
 ### 2.1 Computer Vision
 #### 2.1.1 Low-level Vision
-- Palette: Image-to-image diffusion models
-    - Saharia, Chitwan and Chan, William and Chang, Huiwen and Lee, Chris and Ho, Jonathan and Salimans, Tim and Fleet, David and Norouzi, Mohammad. *ACM SIGGRAPH*
+- **Palette: Image-to-image diffusion models**
+    - Saharia, Chitwan and Chan, William and Chang, Huiwen and Lee, Chris and Ho, Jonathan and Salimans, Tim and Fleet, David and Norouzi, Mohammad. *ACM SIGGRAPH*. [[pdf]](https://arxiv.org/abs/2111.05826) [[code]](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)
 
-- Conditional image generation with score-based diffusion models
-    - Batzolis, Georgios and Stanczuk, Jan and Schonlieb, Carola-Bibiane and Etmann, Christian. *Arxiv 2021*
+- **Conditional image generation with score-based diffusion models**
+    - Batzolis, Georgios and Stanczuk, Jan and Schonlieb, Carola-Bibiane and Etmann, Christian. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2111.13606) [[code]](https://paperswithcode.com/paper/conditional-image-generation-with-score-based)
 
-- Denoising Diffusion Restoration Models
-    - Kawar, Bahjat and Elad, Michael and Ermon, Stefano and Song, Jiaming. *ICLR 2022*
+- **Denoising Diffusion Restoration Models**
+    - Kawar, Bahjat and Elad, Michael and Ermon, Stefano and Song, Jiaming. *ICLR 2022*. [[pdf]](https://arxiv.org/abs/2201.11793) [[code]](https://github.com/bahjat-kawar/ddrm)
 
-- Lossy Compression with Gaussian Diffusion
-    - Theis, Lucas and Salimans, Tim and Hoffman, Matthew D and Mentzer, Fabian. *Arxiv 2022*.
+- **Lossy Compression with Gaussian Diffusion**
+    - Theis, Lucas and Salimans, Tim and Hoffman, Matthew D and Mentzer, Fabian. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2206.08889)
 
-- Srdiff: Single image super-resolution with diffusion probabilistic models
-    - Li, Haoying and Yang, Yifan and Chang, Meng and Chen, Shiqi and Feng, Huajun and Xu, Zhihai and Li, Qi and Chen, Yueting. *Neurocomputing 2022*.
+- **Srdiff: Single image super-resolution with diffusion probabilistic models**
+    - Li, Haoying and Yang, Yifan and Chang, Meng and Chen, Shiqi and Feng, Huajun and Xu, Zhihai and Li, Qi and Chen, Yueting. *Neurocomputing 2022*. [[pdf]](https://arxiv.org/abs/2104.14951) [[code]](https://github.com/LeiaLi/SRDiff)
 
-- Repaint: Inpainting using denoising diffusion probabilistic models
-    - Lugmayr, Andreas and Danelljan, Martin and Romero, Andres and Yu, Fisher and Timofte, Radu and Van Gool, Luc. *CVPR 2022*.
+- **Repaint: Inpainting using denoising diffusion probabilistic models**
+    - Lugmayr, Andreas and Danelljan, Martin and Romero, Andres and Yu, Fisher and Timofte, Radu and Van Gool, Luc. *CVPR 2022*. [[pdf]](https://arxiv.org/abs/2201.09865) [[code]](https://github.com/andreas128/RePaint)
 
 #### 2.1.2 High-level Vision
 - Score-based generative modeling in latent space
