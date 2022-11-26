@@ -266,6 +266,13 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 ### 1.3 Likelihood Optimization
 
 #### 1.3.1 Improved ELBO
+*Score Connection*
+- **Maximum likelihood training of score-based diffusion models**
+    - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2101.09258) [[code]](https://github.com/yang-song/score_flow)
+
+- **Soft truncation: A universal training technique of score-based diffusion model for high precision score estimation**
+    - Dongjun Kim, Seungjae Shin, Kyungwoo Song, Wanmo Kang, Il-Chul Moon. *ICML 2022*. [[pdf]](https://proceedings.mlr.press/v162/kim22i.html) [[code]](https://proceedings.mlr.press/v162/kim22i.html)
+     
 
 #### 1.3.2 Variational Gap Optimization
 
