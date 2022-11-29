@@ -52,7 +52,7 @@ A curated list for diffusion generative models introduced by the paper--[_**A Su
 
 The original idea of the diffusion probabilistic model is to recreate a specific distribution that starts with random noise. Thus, the distributions of generated samples are required to be as close as the ones of original samples. 
 
-We provided "Diffusion Model.pdf", the slide that serves as a vivid explanation for our article. Here, we not only thank for the articles cited in our survey, but also thank the "Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications" provided by NVIDIA [tutorial](https://www.youtube.com/watch?v=cS6JQpEY9cs&t=7827s&ab_channel=ArashVahdat). Besides, there's also two GitHub Repos for summarizing the up-to-date articles, [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) and [What is the Score?](https://scorebasedgenerativemodeling.github.io/). Thank you for your contribution!
+**We provided [Diffusion Model.pdf](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model/blob/main/prez/Diffusion%20Model.pdf), the slide that serves as a vivid explanation for our article. Here, we not only thank for the articles cited in our survey, but also thank the "Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications" provided by NVIDIA [tutorial](https://www.youtube.com/watch?v=cS6JQpEY9cs&t=7827s&ab_channel=ArashVahdat). Besides, there's also two GitHub Repos for summarizing the up-to-date articles, [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) and [What is the Score?](https://scorebasedgenerativemodeling.github.io/). Thank you for your contribution!**
 
 <p align="center">
   <img src='./figs/idea.png' width="600">
