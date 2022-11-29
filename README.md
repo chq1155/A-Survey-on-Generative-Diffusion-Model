@@ -315,68 +315,68 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
     - Lugmayr, Andreas and Danelljan, Martin and Romero, Andres and Yu, Fisher and Timofte, Radu and Van Gool, Luc. *CVPR 2022*. [[pdf]](https://arxiv.org/abs/2201.09865) [[code]](https://github.com/andreas128/RePaint)
 
 #### 2.1.2 High-level Vision
-- Score-based generative modeling in latent space
+- **Score-based generative modeling in latent space**
     - Vahdat, Arash and Kreis, Karsten and Kautz, Jan. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2106.05931) [[code]](https://github.com/NVlabs/LSGM)
 
-- Few-Shot Diffusion Models
+- **Few-Shot Diffusion Models**
     - Giannone, Giorgio and Nielsen, Didrik and Winther, Ole. *Arxiv 2022*。 [[pdf]](https://arxiv.org/abs/2205.15463)
 
-- CARD: Classification and Regression Diffusion Models
+- **CARD: Classification and Regression Diffusion Models**
     - Han, Xizewen and Zheng, Huangjie and Zhou, Mingyuan. *Arxiv 2022*. [[pdf]](http://arxiv.org/abs/2206.07275) [[code]](https://github.com/xzwhan/card)
 
-- Glide: Towards photorealistic image generation and editing with text-guided diffusion models
+- **Glide: Towards photorealistic image generation and editing with text-guided diffusion models**
     - Nichol, Alex and Dhariwal, Prafulla and Ramesh, Aditya and Shyam, Pranav and Mishkin, Pamela and McGrew, Bob and Sutskever, Ilya and Chen, Mark. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2112.10741) [[code]](https://github.com/openai/glide-text2im)
 
-- Segdiff: Image segmentation with diffusion probabilistic models
+- **Segdiff: Image segmentation with diffusion probabilistic models**
     - Amit, Tomer and Nachmani, Eliya and Shaharbany, Tal and Wolf, Lior. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2112.00390) 
 
-- ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech
+- **ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech**
     - Huang, Rongjie and Zhao, Zhou and Liu, Huadai and Liu, Jinglin and Cui, Chenye and Ren, Yi. *ACM MM 2022*. [[pdf]](https://arxiv.org/abs/2207.06389) [[code]](https://github.com/Rongjiehuang/ProDiff) 
     
-- Diffusion Causal Models for Counterfactual Estimation
+- **Diffusion Causal Models for Counterfactual Estimation**
     - Sanchez, Pedro and Tsaftaris, Sotirios A. *Conference on Causal Learning and Reasoning (CLeaR) 2022*. [[pdf]](https://arxiv.org/abs/2202.10166) [[code]](https://github.com/vios-s/diff-scm) 
 
 #### 2.1.3 3D Vision
-- Diffusion probabilistic models for 3d point cloud generation
+- **Diffusion probabilistic models for 3d point cloud generation**
     - Luo, Shitong and Hu, Wei. *CVPR 2021*. [[pdf]](https://arxiv.org/abs/2103.01458) [[code]](https://github.com/luost26/diffusion-point-cloud) 
 
-- A conditional point diffusion-refinement paradigm for 3d point cloud completion
+- **A conditional point diffusion-refinement paradigm for 3d point cloud completion**
     - Lyu, Zhaoyang and Kong, Zhifeng and Xu, Xudong and Pan, Liang and Lin, Dahua. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2112.03530) [[code]](https://github.com/zhaoyanglyu/point_diffusion_refinement) 
 
-- 3D Shape Generation and Completion Through Point-Voxel Diffusion
+- **3D Shape Generation and Completion Through Point-Voxel Diffusion**
     - Zhou, Linqi and Du, Yilun and Wu, Jiajun. *ICCV 2021*. [[pdf]](https://arxiv.org/abs/2104.03670) [[code]](https://github.com/alexzhou907/PVD) 
 
-- Score-based point cloud denoising
+- **Score-based point cloud denoising**
     - Luo, Shitong and Hu, Wei. *ICCV 2021*. [[pdf]](https://arxiv.org/abs/2107.10981) [[code]](https://github.com/luost26/score-denoise) 
     
 #### 2.1.4 Video Modeling
-- Video Diffusion Models
+- **Video Diffusion Models**
     - Ho, Jonathan and Salimans, Tim and Gritsenko, Alexey A and Chan, William and Norouzi, Mohammad and Fleet, David J. *ICLR Workshop 2022*. [[pdf]](https://arxiv.org/abs/2204.03458)
 
-- Diffusion probabilistic modeling for video generation
-    - Yang, Ruihan and Srivastava, Prakhar and Mandt, Stephan. *Arxiv 2022*.
+- **Diffusion probabilistic modeling for video generation**
+    - Yang, Ruihan and Srivastava, Prakhar and Mandt, Stephan. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2203.09481) [[code]](https://github.com/buggyyang/rvd)
 
-- Flexible diffusion modeling of long videos
-    - Harvey, William and Naderiparizi, Saeid and Masrani, Vaden and Weilbach, Christian and Wood, Frank. *Arxiv 2022*.
+- **Flexible diffusion modeling of long videos**
+    - Harvey, William and Naderiparizi, Saeid and Masrani, Vaden and Weilbach, Christian and Wood, Frank. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.11495) [[code]](https://github.com/plai-group/flexible-video-diffusion-modeling)
 
-- MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
-    - Voleti, Vikram and Jolicoeur-Martineau, Alexia and Pal, Christopher. *Arxiv 2022*.
+- **MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation**
+    - Voleti, Vikram and Jolicoeur-Martineau, Alexia and Pal, Christopher. *Arxiv 2022*. [[pdf]](http://arxiv.org/abs/2205.09853) [[code]](https://github.com/voletiv/mcvd-pytorch)
 
-- Diffusion models for video prediction and infilling
-    - Hoppe, Tobias and Mehrjou, Arash and Bauer, Stefan and Nielsen, Didrik and Dittadi, Andrea. *Arxiv 2022*.
+- **Diffusion models for video prediction and infilling**
+    - Hoppe, Tobias and Mehrjou, Arash and Bauer, Stefan and Nielsen, Didrik and Dittadi, Andrea. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2206.07696) [[code]](https://github.com/Tobi-r9/RaMViD)
 
 #### 2.1.5 Medical Application
-- Score-based diffusion models for accelerated MRI
-    - Chung, Hyungjin and Ye, Jong Chul. *Medical Image Analysis 2022*.
+- **Score-based diffusion models for accelerated MRI**
+    - Chung, Hyungjin and Ye, Jong Chul. *Medical Image Analysis 2022*. [[pdf]](https://arxiv.org/abs/2110.05243) [[code]](https://github.com/HJ-harry/score-MRI)
 
-- Solving Inverse Problems in Medical Imaging with Score-Based Generative Models
-    - Song, Yang and Shen, Liyue and Xing, Lei and Ermon, Stefano. *ICLR 2021*.
+- **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**
+    - Song, Yang and Shen, Liyue and Xing, Lei and Ermon, Stefano. *ICLR 2021*. [[pdf]](https://arxiv.org/abs/2111.08005) [[code]](https://github.com/yang-song/score_inverse_problems)
 
-- MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion
-    - Chung, Hyungjin and Lee, Eun Sun and Ye, Jong Chul. *Arxiv 2022*.
+- **MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion**
+    - Chung, Hyungjin and Lee, Eun Sun and Ye, Jong Chul. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2203.12621)
     
-- What is Healthy? Generative Counterfactual Diffusion for Lesion Localization
-    - Sanchez, Pedro and Kascenas, Antanas and Liu, Xiao and O'Neil, Alison Q and Tsaftaris, Sotirios A. *Arxiv 2022*
+- **What is Healthy? Generative Counterfactual Diffusion for Lesion Localization**
+    - Sanchez, Pedro and Kascenas, Antanas and Liu, Xiao and O'Neil, Alison Q and Tsaftaris, Sotirios A. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2207.12268) [[code]](https://github.com/vios-s/diff-scm)
 
 ### 2.2 Sequential Modeling
 #### 2.2.1 Natural Language Processing
