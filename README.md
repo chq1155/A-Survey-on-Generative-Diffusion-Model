@@ -380,100 +380,100 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
 
 ### 2.2 Sequential Modeling
 #### 2.2.1 Natural Language Processing
-- Diffusion-LM Improves Controllable Text Generation
-    - Li, Xiang Lisa and Thickstun, John and Gulrajani, Ishaan and Liang, Percy and Hashimoto, Tatsunori B. *Arxiv 2022*.
+- **Diffusion-LM Improves Controllable Text Generation**
+    - Li, Xiang Lisa and Thickstun, John and Gulrajani, Ishaan and Liang, Percy and Hashimoto, Tatsunori B. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.14217) [[code]](https://github.com/xiangli1999/diffusion-lm)
 
-- Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
-    - Chen, Ting and Zhang, Ruixiang and Hinton, Geoffrey. *Arxiv 2022*.
+- **Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning**
+    - Chen, Ting and Zhang, Ruixiang and Hinton, Geoffrey. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2208.04202) [[code]](https://github.com/lucidrains/bit-diffusion)
 
 #### 2.2.2 Time Series
-- CSDI: Conditional score-based diffusion models for probabilistic time series imputation
-    - Tashiro, Yusuke and Song, Jiaming and Song, Yang and Ermon, Stefano. *NIPS 2021*.
+- **CSDI: Conditional score-based diffusion models for probabilistic time series imputation**
+    - Tashiro, Yusuke and Song, Jiaming and Song, Yang and Ermon, Stefano. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2107.03502) [[code]](https://github.com/ermongroup/csdi)
 
-- Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models.
-    - Alcaraz, Juan Miguel Lopez and Strodthoff, Nils. *Arxiv 2022*.
+- **Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models**
+    - Alcaraz, Juan Miguel Lopez and Strodthoff, Nils. *Arxiv 2022*. [[pdf]](http://arxiv.org/abs/2208.09399) [[code]](https://github.com/ai4healthuol/sssd)
 
-- Neural Markov Controlled SDE: Stochastic Optimization for Continuous-Time Data
-    - Park, Sung Woo and Lee, Kyungjae and Kwon, Junseok. *ICLR 2021*.
+- **Neural Markov Controlled SDE: Stochastic Optimization for Continuous-Time Data**
+    - Park, Sung Woo and Lee, Kyungjae and Kwon, Junseok. *ICLR 2021*. [[pdf]](https://openreview.net/forum?id=7DI6op61AY)
 
 ### 2.3 Audio
 #### 2.3.1 Sound Generation
-- Palette: Image-to-image diffusion models
-    - Saharia, Chitwan and Chan, William and Chang, Huiwen and Lee, Chris and Ho, Jonathan and Salimans, Tim and Fleet, David and Norouzi, Mohammad. *ACM SIGGRAPH*
+- **Palette: Image-to-image diffusion models**
+    - Saharia, Chitwan and Chan, William and Chang, Huiwen and Lee, Chris and Ho, Jonathan and Salimans, Tim and Fleet, David and Norouzi, Mohammad. *ACM SIGGRAPH*. [[pdf]](https://arxiv.org/abs/2111.05826) [[code]](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)
 
-- DiffWave: A Versatile Diffusion Model for Audio Synthesis
-    - Kong, Zhifeng and Ping, Wei and Huang, Jiaji and Zhao, Kexin and Catanzaro, Bryan. *ICLR 2020*.
+- **DiffWave: A Versatile Diffusion Model for Audio Synthesis**
+    - Kong, Zhifeng and Ping, Wei and Huang, Jiaji and Zhao, Kexin and Catanzaro, Bryan. *ICLR 2020*. [[pdf]](https://arxiv.org/abs/2009.09761) [[code]](https://diffwave-demo.github.io/)
 
-- Grad-tts: A diffusion probabilistic model for text-to-speech
-    - Popov, Vadim and Vovk, Ivan and Gogoryan, Vladimir and Sadekova, Tasnima and Kudinov, Mikhail. *ICML 2021*.
+- **Grad-TTS: A diffusion probabilistic model for text-to-speech**
+    - Popov, Vadim and Vovk, Ivan and Gogoryan, Vladimir and Sadekova, Tasnima and Kudinov, Mikhail. *ICML 2021*. [[pdf]](https://arxiv.org/abs/2105.06337) [[code]](https://github.com/huawei-noah/Speech-Backbones)
 
-- Diff-TTS: A Denoising Diffusion Model for Text-to-Speech
-    - Myeonghun Jeong and Hyeongju Kim and Sung Jun Cheon and Byoung Jin Choi and Nam Soo Kim. *Proc. Interspeech 2021*
+- **Diff-TTS: A Denoising Diffusion Model for Text-to-Speech**
+    - Myeonghun Jeong and Hyeongju Kim and Sung Jun Cheon and Byoung Jin Choi and Nam Soo Kim. *Proc. Interspeech 2021*. [[pdf]](https://arxiv.org/abs/2104.01409)
 
-- Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme
-    - Popov, Vadim and Vovk, Ivan and Gogoryan, Vladimir and Sadekova, Tasnima and Kudinov, Mikhail Sergeevich and Wei, Jiansheng. *ICLR 2021*.
+- **Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme**
+    - Popov, Vadim and Vovk, Ivan and Gogoryan, Vladimir and Sadekova, Tasnima and Kudinov, Mikhail Sergeevich and Wei, Jiansheng. *ICLR 2021*. [[pdf]](https://arxiv.org/abs/2109.13821) [[code]](https://github.com/huawei-noah/Speech-Backbones)
 
-- Diffsinger: Singing voice synthesis via shallow diffusion mechanism
-    - Liu, Jinglin and Li, Chengxi and Ren, Yi and Chen, Feiyang and Zhao, Zhou. *AAAI 2022*.
+- **Diffsinger: Singing voice synthesis via shallow diffusion mechanism**
+    - Liu, Jinglin and Li, Chengxi and Ren, Yi and Chen, Feiyang and Zhao, Zhou. *AAAI 2022*. [[pdf]](https://arxiv.org/abs/2105.02446) [[code]](https://github.com/MoonInTheRiver/DiffSinger)
 
-- Diffsound: Discrete Diffusion Model for Text-to-sound Generation
-    - Yang, Dongchao and Yu, Jianwei and Wang, Helin and Wang, Wen and Weng, Chao and Zou, Yuexian and Yu, Dong. *Arxiv 2022*
+- **Diffsound: Discrete Diffusion Model for Text-to-sound Generation**
+    - Yang, Dongchao and Yu, Jianwei and Wang, Helin and Wang, Wen and Weng, Chao and Zou, Yuexian and Yu, Dong. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2207.09983) [[code]](https://github.com/yangdongchao/Text-to-sound-Synthesis)
 
 #### 2.3.2 Text to Speech
-- ItoTTS and ItoWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation
-    - Wu, Shoule and Shi, Ziqiang. *Arxiv 2021*.
+- **ItoTTS and ItoWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation**
+    - Wu, Shoule and Shi, Ziqiang. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2105.07583) [[code]](https://wushoule.github.io/ItoAudio/)
 
-- EdiTTS: Score-based Editing for Controllable Text-to-Speech
-    - Tae, Jaesung and Kim, Hyeongju and Kim, Taesu. *Arxiv 2021*.
+- **EdiTTS: Score-based Editing for Controllable Text-to-Speech**
+    - Tae, Jaesung and Kim, Hyeongju and Kim, Taesu. *Arxiv 2021*. [[pdf]](https://arxiv.org/abs/2110.02584) [[code]](https://editts.github.io/)
 
-- Guided-TTS: A Diffusion Model for Text-to-Speech via Classifier Guidance
-    - Kim, Heeseung and Kim, Sungwon and Yoon, Sungroh. *ICML 2022*.
+- **Guided-TTS: A Diffusion Model for Text-to-Speech via Classifier Guidance**
+    - Kim, Heeseung and Kim, Sungwon and Yoon, Sungroh. *ICML 2022*. [[pdf]](https://arxiv.org/abs/2111.11755)
 
-- Guided-TTS 2: A Diffusion Model for High-quality Adaptive Text-to-Speech with Untranscribed Data
-    - Kim, Sungwon and Kim, Heeseung and Yoon, Sungroh. *Arxiv 2022*.
+- **Guided-TTS 2: A Diffusion Model for High-quality Adaptive Text-to-Speech with Untranscribed Data**
+    - Kim, Sungwon and Kim, Heeseung and Yoon, Sungroh. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.15370) [[code]](https://ksw0306.github.io/guided-tts2-demo/)
 
-- Zero-Shot Voice Conditioning for Denoising Diffusion TTS Models
-    - Levkovitch, Alon and Nachmani, Eliya and Wolf, Lior. *Arxiv 2022*.
+- **Zero-Shot Voice Conditioning for Denoising Diffusion TTS Models**
+    - Levkovitch, Alon and Nachmani, Eliya and Wolf, Lior. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2206.02246?context=cs) [[code]](https://alonlevko.github.io/ilvr-tts-diff)
 
-- SpecGrad: Diffusion Probabilistic Model based Neural Vocoder with Adaptive Noise Spectral Shaping
-    - Koizumi, Yuma and Zen, Heiga and Yatabe, Kohei and Chen, Nanxin and Bacchiani, Michiel. *Arxiv 2022*
+- **SpecGrad: Diffusion Probabilistic Model based Neural Vocoder with Adaptive Noise Spectral Shaping**
+    - Koizumi, Yuma and Zen, Heiga and Yatabe, Kohei and Chen, Nanxin and Bacchiani, Michiel. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2203.16749) [[code]](https://wavegrad.github.io/specgrad/)
 
-- BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis
-    - Leng, Yichong and Chen, Zehua and Guo, Junliang and Liu, Haohe and Chen, Jiawei and Tan, Xu and Mandic, Danilo and He, Lei and Li, Xiang-Yang and Qin, Tao and others. *Arxiv 2022*.
+- **BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis**
+    - Leng, Yichong and Chen, Zehua and Guo, Junliang and Liu, Haohe and Chen, Jiawei and Tan, Xu and Mandic, Danilo and He, Lei and Li, Xiang-Yang and Qin, Tao and others. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.14807) [[code]](https://speechresearch.github.io/binauralgrad/)
 
-- ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech
+- **ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech**
     - Huang, Rongjie and Zhao, Zhou and Liu, Huadai and Liu, Jinglin and Cui, Chenye and Ren, Yi. *ACM MM 2022*. [[pdf]](https://arxiv.org/abs/2207.06389) [[code]](https://github.com/Rongjiehuang/ProDiff) 
 
 
 ### 2.4 AI for Science
 #### 2.4.1 Molecular Conformation Generation
-- Equivariant diffusion for molecule generation in 3d
-    - Hoogeboom, Emiel and Satorras, Vi}ctor Garcia and Vignac, Clement and Welling, Max. *ICML 2022*.
+- **Equivariant diffusion for molecule generation in 3d**
+    - Hoogeboom, Emiel and Satorras, Vi}ctor Garcia and Vignac, Clement and Welling, Max. *ICML 2022*. [[pdf]](https://arxiv.org/abs/2203.17003) [[code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
 
-- GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation
-    - Xu, Minkai and Yu, Lantao and Song, Yang and Shi, Chence and Ermon, Stefano and Tang, Jian. *ICLR 2021*.
+- **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation**
+    - Xu, Minkai and Yu, Lantao and Song, Yang and Shi, Chence and Ermon, Stefano and Tang, Jian. *ICLR 2021*. [[pdf]](https://arxiv.org/abs/2203.02923) [[code]](https://github.com/minkaixu/geodiff)
 
-- Learning gradient fields for molecular conformation generation
-    - Shi, Chence and Luo, Shitong and Xu, Minkai and Tang, Jian. *ICML 2021*.
+- **Learning gradient fields for molecular conformation generation**
+    - Shi, Chence and Luo, Shitong and Xu, Minkai and Tang, Jian. *ICML 2021*. [[pdf]](https://arxiv.org/abs/2105.03902) [[code]](https://github.com/DeepGraphLearning/ConfGF)
 
-- Predicting molecular conformation via dynamic graph score matching
-    - Luo, Shitong and Shi, Chence and Xu, Minkai and Tang, Jian. *NIPS 2021*.
+- **Predicting molecular conformation via dynamic graph score matching**
+    - Luo, Shitong and Shi, Chence and Xu, Minkai and Tang, Jian. *NIPS 2021*. [[pdf]](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)
 
-- Torsional Diffusion for Molecular Conformer Generation
-    - Jing, Bowen and Corso, Gabriele and Barzilay, Regina and Jaakkola, Tommi S. *ICLR Workshop 2022*.
+- **Torsional Diffusion for Molecular Conformer Generation**
+    - Jing, Bowen and Corso, Gabriele and Barzilay, Regina and Jaakkola, Tommi S. *ICLR Workshop 2022*. [[pdf]](https://arxiv.org/abs/2206.01729) [[code]](https://github.com/gcorso/torsional-diffusion)
 
 #### 2.4.2 Material Design
-- Crystal Diffusion Variational Autoencoder for Periodic Material Generation
-    - Xie, Tian and Fu, Xiang and Ganea, Octavian-Eugen and Barzilay, Regina and Jaakkola, Tommi S. *ICLR 2021*.
+- **Crystal Diffusion Variational Autoencoder for Periodic Material Generation**
+    - Xie, Tian and Fu, Xiang and Ganea, Octavian-Eugen and Barzilay, Regina and Jaakkola, Tommi S. *ICLR 2021*. [[pdf]](https://arxiv.org/abs/2110.06197) [[code]](https://github.com/txie-93/cdvae)
 
-- Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models
-    - Luo, Shitong and Su, Yufeng and Peng, Xingang and Wang, Sheng and Peng, Jian and Ma, Jianzhu. *Arxiv 2022*.
+- **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models**
+    - Luo, Shitong and Su, Yufeng and Peng, Xingang and Wang, Sheng and Peng, Jian and Ma, Jianzhu. *Arxiv 2022*. [[pdf]](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1) [[code]](https://github.com/luost26/diffab)
 
-- Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models
-    - Anand, Namrata and Achim, Tudor. *Arxiv 2022*.
+- **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**
+    - Anand, Namrata and Achim, Tudor. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2205.15019) [[code]](https://github.com/lucidrains/ddpm-ipa-protein-generation)
 
-- ProteinSGM: Score-based generative modeling for de novo protein design
-    - Lee, Jin Sub and Kim, Philip M. *Arxiv 2022*
+- **ProteinSGM: Score-based generative modeling for de novo protein design**
+    - Lee, Jin Sub and Kim, Philip M. *Arxiv 2022*. [[pdf]](https://www.biorxiv.org/content/10.1101/2022.07.13.499967v1)
 
 <p align="center">
   <img src='./figs/table2.jpg' width="1000">
