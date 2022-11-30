@@ -274,13 +274,42 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 
 - **Soft truncation: A universal training technique of score-based diffusion model for high precision score estimation**
     - Dongjun Kim, Seungjae Shin, Kyungwoo Song, Wanmo Kang, Il-Chul Moon. *ICML 2022*. [[pdf]](https://proceedings.mlr.press/v162/kim22i.html) [[code]](https://proceedings.mlr.press/v162/kim22i.html)
+    
+*Redesign*
+- **Improved Denoising Diffusion Probabilistic Models**
+    - Alex Nichol, Prafulla Dhariwal. *ICLR 2021*. [[pdf]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
+    
+- **Fast Sampling of Diffusion Models with Exponential Integrator**
+    - Zhang, Qinsheng and Chen, Yongxin. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2204.13902) [[code]](https://github.com/qsh-zh/deis) 
+
+- **Variational diffusion models**
+    - Kingma, Diederik and Salimans, Tim and Poole, Ben and Ho, Jonathan. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
+    
+- **Structured denoising diffusion models in discrete state-spaces**
+    - Austin, Jacob and Johnson, Daniel D and Ho, Jonathan and Tarlow, Daniel and van den Berg, Rianne. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.03006) [[code]](https://paperswithcode.com/paper/structured-denoising-diffusion-models-in)
      
 
 #### 1.3.2 Variational Gap Optimization
 
+- **Score-based generative modeling in latent space**
+    - Vahdat, Arash and Kreis, Karsten and Kautz, Jan. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2106.05931) [[code]](https://github.com/NVlabs/LSGM)
+
+- **Maximum likelihood training of score-based diffusion models**
+    - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2101.09258) [[code]](https://github.com/yang-song/score_flow)
+
+- **Maximum Likelihood Training of Parametrized Diffusion Model**
+    - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. [[pdf]](https://paperswithcode.com/paper/maximum-likelihood-training-of-parametrized)
+
+
 ### 1.4 Dimension Reduction
 
 #### 1.4.1 Mixed-Modeling
+
+- **Maximum likelihood training of score-based diffusion models**
+    - Song, Yang and Durkan, Conor and Murray, Iain and Ermon, Stefano. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2101.09258) [[code]](https://github.com/yang-song/score_flow)
+
+- **Maximum Likelihood Training of Parametrized Diffusion Model**
+    - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. [[pdf]](https://paperswithcode.com/paper/maximum-likelihood-training-of-parametrized)
 
 
 <p align="center">
