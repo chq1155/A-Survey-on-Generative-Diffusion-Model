@@ -320,7 +320,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 Benefiting from the powerful ability to generate realistic samples, diffusion models have been widely used in various fields such as computer vision, natural language processing, and bioinformatics.
 
 <p align="center">
-  <img src='./figs/app.jpg' width="1000">
+  <img src='./figs/v9app.png' width="1000">
 </p>
 
 ### 2.1 Computer Vision
