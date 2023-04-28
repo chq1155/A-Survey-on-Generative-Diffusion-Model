@@ -95,7 +95,7 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
  - **How Much is Enough? A Study on Diffusion Times in Score-based Generative Models**
     - Franzese, Giulio and Rossi, Simone and Yang, Lixuan and Finamore, Alessandro and Rossi, Dario and Filippone, Maurizio and Michiardi, Pietro. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2206.05173)
 
-***Noise Scale Designing* **
+***Noise Scale Designing***
  - **Improved denoising diffusion probabilistic models**
     - Nichol, Alexander Quinn and Dhariwal, Prafulla. *PMLR 2021* [[pdf]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
 
@@ -183,6 +183,9 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 
 - **Maximum Likelihood Training of Parametrized Diffusion Model**
     - Kim, Dongjun and Na, Byeonghu and Kwon, Se Jung and Lee, Dongsoo and Kang, Wanmo and Moon, Il-chul. [[pdf]](https://paperswithcode.com/paper/maximum-likelihood-training-of-parametrized)
+    
+- **Diffusion Probabilistic Model Made Slim**
+    - Yang, Xingyi and Zhou, Daquan and Feng, Jiashi and Wang, Xinchao. *CVPR 2023*. [[pdf]](https://arxiv.org/pdf/2211.17106.pdf)
 
 #### 1.1.4 Score-Diffusion Unification
 - **Score-based generative modeling through stochastic differential equations**
