@@ -393,6 +393,9 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
 
 - **Diffusion models for video prediction and infilling**
     - Hoppe, Tobias and Mehrjou, Arash and Bauer, Stefan and Nielsen, Didrik and Dittadi, Andrea. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2206.07696) [[code]](https://github.com/Tobi-r9/RaMViD)
+    
+- **Conditional Image-to-Video Generation with Latent Flow Diffusion Models**
+    - Ni, Haomiao and Shi, Changhao and Li, Kai and Huang, Sharon and Min, Martin. *CVPR 2023*. [[pdf]](https://arxiv.org/pdf/2303.13744) [[code]](https://github.com/nihaomiao/CVPR23_LFDM)
 
 #### 2.1.5 Medical Application
 - **Score-based diffusion models for accelerated MRI**
