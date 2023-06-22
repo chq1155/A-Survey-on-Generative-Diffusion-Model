@@ -95,6 +95,15 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
  - **How Much is Enough? A Study on Diffusion Times in Score-based Generative Models**
     - Franzese, Giulio and Rossi, Simone and Yang, Lixuan and Finamore, Alessandro and Rossi, Dario and Filippone, Maurizio and Michiardi, Pietro. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2206.05173)
 
+ - **Poisson Flow Generative Models**
+   - Xu, Yilun and Liu, Ziming and Tegmark, Max Tegmark and Jaakkola, Tommi. *NeurIPS 2022* [[pdf]](https://arxiv.org/abs/2209.11178) [[code]](https://github.com/Newbeeer/Poisson_flow)
+
+ - **PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**
+   - Xu, Yilun Xu and Liu, Ziming and Tian, Yonglong and Tong, Shangyuan Tong and Tegmark, Max Tegmark and Jaakkola, Tommi. *ICML 2023* [[pdf]](https://arxiv.org/abs/2302.04265) [[code]](https://github.com/Newbeeer/pfgmpp)
+
+ - **Stable Target Field for Reduced Variance Score Estimation in Diffusion Models**
+   - Xu, Yilun and Tong, Shangyuan and Jaakkola, Tommi. *ICLR 2023* [[pdf]](https://arxiv.org/abs/2302.00670) [[code]](https://github.com/Newbeeer/stf)
+ 
 ***Noise Scale Designing***
  - **Improved denoising diffusion probabilistic models**
     - Nichol, Alexander Quinn and Dhariwal, Prafulla. *PMLR 2021* [[pdf]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
@@ -108,6 +117,9 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
  - **Variational diffusion models**
     - Kingma, Diederik and Salimans, Tim and Poole, Ben and Ho, Jonathan. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
 
+ - **Elucidating the Design Space of Diffusion-Based Generative Models**
+   - Karras, Tero and Aittala, Miika and Aila, Timo and Laine, Samuli. *NeurIPS 2022* [[pdf]](https://arxiv.org/abs/2206.00364) [[code]](https://github.com/NVlabs/edm)
+ 
 ***Data Distribution Replace***
  - **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise**
     - Bansal, Arpit and Borgnia, Eitan and Chu, Hong-Min and Li, Jie S. and Kazemi, Hamid and Huang, Furong and Goldblum, Micah and Geiping, Jonas and Goldstein, Tom. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2208.09392) [[code]](https://github.com/arpitbansal297/cold-diffusion-models)
@@ -191,6 +203,8 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 - **Score-based generative modeling through stochastic differential equations**
     - Song, Yang and Sohl-Dickstein, Jascha and Kingma, Diederik P and Kumar, Abhishek and Ermon, Stefano and Poole, Ben. *Arxiv 2020*. [[pdf]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde)
 
+- **PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**
+  - Xu, Yilun Xu and Liu, Ziming and Tian, Yonglong and Tong, Shangyuan Tong and Tegmark, Max Tegmark and Jaakkola, Tommi. *ICML 2023* [[pdf]](https://arxiv.org/abs/2302.04265) [[code]](https://github.com/Newbeeer/pfgmpp)
 
 - **Variational diffusion models**
     - Kingma, Diederik and Salimans, Tim and Poole, Ben and Ho, Jonathan. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
