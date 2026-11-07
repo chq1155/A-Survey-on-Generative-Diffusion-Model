@@ -414,6 +414,9 @@ Benefiting from the powerful ability to generate realistic samples, diffusion mo
 - **Conditional Image-to-Video Generation with Latent Flow Diffusion Models**
     - Ni, Haomiao and Shi, Changhao and Li, Kai and Huang, Sharon and Min, Martin. *CVPR 2023*. [[pdf]](https://arxiv.org/pdf/2303.13744) [[code]](https://github.com/nihaomiao/CVPR23_LFDM)
 
+- **Motion-aware generative frame interpolation**
+    - Zhang, Guozhen and Zhu, Yuhan and Cui, Yutao and Zhao, Xiaotong and Ma, Kai and Wang, Limin. *Science China Information Sciences 2026*. [[pdf]](https://arxiv.org/abs/2501.03699) [[journal]](https://link.springer.com/article/10.1007/s11432-025-4920-3) [[code]](https://github.com/MCG-NJU/MoG-VFI)
+
 #### 2.1.5 Medical Application
 - **Score-based diffusion models for accelerated MRI**
     - Chung, Hyungjin and Ye, Jong Chul. *Medical Image Analysis 2022*. [[pdf]](https://arxiv.org/abs/2110.05243) [[code]](https://github.com/HJ-harry/score-MRI)
